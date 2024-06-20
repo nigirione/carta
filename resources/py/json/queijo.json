@@ -1,0 +1,17 @@
+[
+  {
+    "number": "22",
+    "title": "Queijo",
+    "image": "resources/img/22.png"
+  },
+  {
+    "number": "23",
+    "title": "Queijo + Abacate",
+    "image": "resources/img/23.png"
+  },
+  {
+    "number": "N22",
+    "title": "Queijo + Salm\u00e3o Defumado c/ Cebola Frita",
+    "image": "resources/img/N22.jpg"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "number": "N7",
+    "title": "Nigiri Tofu",
+    "pieces": "2 Pe\u00e7as",
+    "image": "resources/img/N7.jpg"
+  },
+  {
+    "number": "N13",
+    "title": "Tofu c/ Frutas",
+    "pieces": "2 Pe\u00e7as",
+    "image": "resources/img/N13.jpg"
+  },
+  {
+    "number": "N23",
+    "title": "Queijo c/ Frutas",
+    "pieces": "2 Pe\u00e7as",
+    "image": "resources/img/N23.jpg"
+  }
+]
