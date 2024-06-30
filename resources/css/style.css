@@ -71,8 +71,13 @@ body {
   font-size: 1.5em;
 }
 
-.content_price p strong{
+.price{
   color: rgb(185, 49, 51);
+  font-size: 1.3em;
+}
+
+.description{
+  color: black;
 }
 
 #menu4plates{
