@@ -199,6 +199,12 @@ body {
   height: auto;
 }
 
+.img_allergen_icons{
+  margin-top: 10px;
+  width: 300px;
+  height: auto;
+}
+
 /* --------------popup-----------------*/
 
 
@@ -516,7 +522,7 @@ body {
   }
 
   .content p {
-    margin-bottom: 20px; 
+    margin-bottom: 0px; 
     font-size: 0.8em;
   }
 
@@ -655,14 +661,6 @@ body {
     height: 90px; 
   }
 
-  .content h1{
-    font-size: 30px;
-  }
-
-  .content p {
-    margin-bottom: 30px; 
-    font-size: 0.8em;
-  }
   .phone-number {
     color: #f9f8f8;
     margin: 0; 
