@@ -16,6 +16,8 @@ body {
 .carte-info{
   color: rgb(185, 49, 51);
   font-size: 1.3em;
+  margin: 0;
+  padding: 0;
 }
 
 .sticky-header {
@@ -101,6 +103,10 @@ body {
   left: 0;
   width: 100%;
   z-index: 1000; /* Adjust as needed */
+}
+
+.logo-header{
+  margin: 3px;
 }
 
 .header{
@@ -207,6 +213,10 @@ body {
   margin-top: 10px;
   width: 300px;
   height: auto;
+}
+
+.allergen_info{
+  font-size: 0.4em;
 }
 
 /* --------------popup-----------------*/
