@@ -13,6 +13,10 @@ body {
   margin-top: 50px;
 }
 
+.carte-info{
+  color: rgb(185, 49, 51);
+  font-size: 1.3em;
+}
 
 .sticky-header {
   position: fixed;
