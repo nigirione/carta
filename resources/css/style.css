@@ -176,9 +176,6 @@ body {
 .information  strong {
   color: rgb(185, 49, 51);
 }
-body {
-  padding: 25px;
-}
 
 .strong {
   font-size: 1.8em;
@@ -448,6 +445,13 @@ body {
 }
 
 @media screen and (max-width: 768px) {
+
+  body {
+    padding: 25px;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
 
   .img_3_sushi{
     width: 200px;
