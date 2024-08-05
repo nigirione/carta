@@ -290,8 +290,9 @@ body {
 /* --------------drinks-----------------*/
 
 .img_drinks{
-  margin-left: 20px;
+  margin-left: 70px;
   padding: 10px;
+  padding-left: 20px;
   width: 400px;
   height: auto;
   border-radius: 30%;
@@ -727,10 +728,11 @@ body {
   }
 
   .img_drinks{
-    margin-top: 20px;
+    padding: 0px;
+    padding-left: 0px;
+    margin-top: 5px;
     margin-left: 0px;
-    margin-right: 200px;
-    width: 200px;
+    width: 150px;
     height: auto;
     border-radius: 30%;
   }
