@@ -17,6 +17,12 @@ menu_items = [
   {"number": "N7","title": "Nigiri Tofu","pieces": "2 Peças" ,"image": "resources/img/N7.jpg"},
   {"number": "N13","title": "Tofu c/ Frutas","pieces": "2 Peças" ,"image": "resources/img/N13.jpg"},
   {"number": "N23","title": "Queijo c/ Frutas","pieces": "2 Peças" ,"image": "resources/img/N23.jpg"},
+  {"number": "N80","title": "Califórnia de Gambas Panadas c/ Molho de Frutas","pieces": "4 Peças" ,"image": "resources/img/N80.jpg"},
+  {"number": "N81","title": "Maki Frito c/ Molho de Frutas","pieces": "4 Peças" ,"image": "resources/img/N81.jpg"},
+  {"number": "N82","title": "Califórnia Frito c/ Molho de Frutas","pieces": "4 Peças" ,"image": "resources/img/N82.jpg"},
+  {"number": "N83","title": "Califórnia + Salmão Defumado c/ Molho de Frutas","pieces": "2 Peças" ,"image": "resources/img/N83.jpg"},
+  {"number": "N84","title": "Califórnia de Manga c/ Molho de Frutas","pieces": "4 Peças" ,"image": "resources/img/N84.jpg"},
+  {"number": "N86","title": "Gukan de Salmão Defumado","pieces": "2 Peças" ,"image": "resources/img/N86.jpg"},
 ]
 
 # Write menu items to JSON file
