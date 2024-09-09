@@ -22,7 +22,7 @@ menu_items = [
   {"number": "82","title": "Califórnia Frito c/ Molho de Frutas","pieces": "4 Peças" ,"image": "resources/img/N82.jpg"},
   {"number": "83","title": "Califórnia + Salmão Defumado c/ Molho de Frutas","pieces": "2 Peças" ,"image": "resources/img/N83.jpg"},
   {"number": "84","title": "Califórnia de Manga c/ Molho de Frutas","pieces": "4 Peças" ,"image": "resources/img/N84.jpg"},
-  {"number": "85","title": "Salmão Defumado c/ Molho de Frutas", "pieces": "5 Peças" ,"image": "resources/img/N85.jpg"},
+  {"number": "85","title": "Sashimi Salmão c/ Molho de Frutas", "pieces": "5 Peças" ,"image": "resources/img/N85.jpg"},
   {"number": "86","title": "Gukan de Salmão Defumado c/ Molho","pieces": "2 Peças" ,"image": "resources/img/N86.jpg"},
 ]
 
